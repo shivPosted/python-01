@@ -55,3 +55,13 @@ marks = {
 # print(marksCP)
 # dict.clear(marksCP)
 # print(marksCP)
+
+# s = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+# print(type(s)) # s = {} will create an empty dictionary
+
+# s1 = {1, 2, 3} 
+# s2 = {3, 4, 5}
+# s3 = {3, 5, 6}
+
+# set.add(s1, 4)
+# print(set.issubset(s, s1))
