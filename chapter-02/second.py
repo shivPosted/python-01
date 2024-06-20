@@ -38,3 +38,20 @@
 # tup[1] = 21
 tup01 = (0, 45, 0, 69, 0, 12, 0)
 print(tup01.count(0))
+
+marks = {
+  'shiv': 100,
+  'harry': 52,
+  'shivam': 32,
+  'rohit': 53,
+
+}
+
+# name = input('Enter whom marks you want: ')
+# print('Here is marks of' ,name, marks[name])
+# values = dict.values(marks)
+# print(values)
+# marksCP = dict.copy(marks)
+# print(marksCP)
+# dict.clear(marksCP)
+# print(marksCP)
